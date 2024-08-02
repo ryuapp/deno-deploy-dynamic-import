@@ -1,0 +1,1 @@
+This is research for dynamic import on Deno Deploy.
